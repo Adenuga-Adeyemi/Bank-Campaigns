@@ -5,13 +5,13 @@
 
 I’m excited to share the results of my third task at Prodigy InfoTech! This project focused on analyzing bank marketing campaigns to provide actionable insights into campaign performance and customer demographics.
 
-🎯 Objectives:
+## 🎯 Objectives:
 The aim of this task is to;
 - Assess the success rate of marketing campaigns.
 - Understand customer demographics and their impact on campaign outcomes.
 - Provide recommendations to optimize future marketing efforts.
 
-🔍 Analysis Highlights:
+## 🔍 Analysis Highlights:
 1️⃣ Customer Demographics:
 - Average customer age: 52 years.
 - Secondary education level was the most prevalent among customers (23K customers).
@@ -23,7 +23,14 @@ The aim of this task is to;
 3️⃣ Revenue Insights:
 - Total revenue balance: $62M, with an average of $1.36K per customer.
 - Married customers formed the largest group, constituting 60% of the total customer base.
-📈 Recommendations:
+
+<img width="507" alt="Screenshot 2024-12-29 165825" src="https://github.com/user-attachments/assets/9ddb64ea-827c-40f4-96ea-5c658b95ea0d" />
+<img width="506" alt="Screenshot 2024-12-29 170031" src="https://github.com/user-attachments/assets/8d288d2b-8867-4ef5-acc7-cc6c727101c8" />
+
+
+
+
+## 📈 Recommendations:
 1. There is need for targeted Campaigns to focus on other contact methods and prioritize management and technician roles for higher success rates.
 2. Bank organization and similar organizations can create age-specific and education-targeted campaigns to better resonate with key demographics.
 3. Develop tailored offers for the blue-collar segment and married customers to boost engagement and revenue.
